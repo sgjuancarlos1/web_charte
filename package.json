@@ -48,6 +48,7 @@
     "@types/react-plotly.js": "2.6.3",
     "autoprefixer": "10.4.15",
     "bcryptjs": "2.4.3",
+    "better-sqlite3": "^12.2.0",
     "chart.js": "4.4.9",
     "class-variance-authority": "0.7.0",
     "clsx": "2.1.1",
